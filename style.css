@@ -1,0 +1,198 @@
+#corpo{
+    background-image: url("familia.jpg");
+    background-size: cover;
+}
+
+#cmc{
+    border-radius: 20px;
+    width: 50%;
+    margin-top: 5%;
+    background-color: aliceblue;
+}
+
+#butoa{
+    background-color: yellow;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#butoa:hover{
+    background-color: pink;
+    opacity: 0.7;
+    color: aliceblue;
+}
+
+#pedro{
+    font-size: 10px;
+    color: aqua;
+    margin-top: 25%;
+    margin-left: 90%;
+    font-weight: bold;
+    text-align: center;
+}
+#texto:hover{
+    color:pink;
+}
+
+#pedro:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+#viseira_b{
+    margin-top: 100px;
+}
+
+#desafio{
+    width: 50%;
+}
+
+#corpo2{
+    background-image: url("jogo.jpg");
+    background-size: cover;
+}
+
+#buti{
+    width: 50%;
+}
+
+#descobrir{
+    background-color: tomato;
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+}
+
+#descobrir:hover{
+    background-color: pink;
+    color: aliceblue;
+}
+
+#texto2:hover{
+    color: blue;
+    background-color: pink;
+}
+
+
+
+#pedro1{
+    text-align: center;
+    margin-left: 80%;
+    margin-top: 11%;
+    color: aliceblue;
+}
+
+#pedro1:hover{
+    background-color: aliceblue;
+    color: pink;
+}
+
+
+#corpo3{
+    background-color: pink;
+}
+
+#presentes{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: blue;
+    color: chartreuse;
+    cursor: pointer;
+}
+#presentes:hover{
+    background-color: black;
+    color: pink;
+}
+
+#texto5{
+    color: yellow;
+    font-weight: bold;
+}
+
+#texto5:hover{
+    background-color: black;
+    color: pink;
+}
+
+#mario{
+    width: 50%;
+}
+
+#prejogo1{
+    background-image: url("foto.jpg");
+    background-size: cover;
+}
+    
+#texto_mario{
+    color: white;
+    font-weight: bold;
+}
+
+.dicas{
+    color:  black;
+}
+
+#texto_mario:hover{
+    color: pink;
+    background-color: aliceblue;
+}
+
+#btn_jogar{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: pink;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+#btn_jogar:hover{
+background-color: aliceblue;
+color: pink;
+}
+
+.botao{
+    border-radius: 7px;
+    width: 100px;
+    height: 35px;
+    background-color: pink;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+#corpo25{
+    background-image: url("jogo.jpg");
+    background-size: cover;
+}
+
+
+#canvas2{
+    border-width: 10px;
+    border-style: ridge;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+#canvas1{
+    border-width: 10px;
+    border-style: ridge;
+    cursor: pointer;
+}
+
+#canvas1:hover{
+    background-image: url("viseirr.webp");
+    background-size: cover;
+}
+
+#canvas2:hover{
+    background-image: url("rackeet.webp");
+    background-size: cover;
+}
+
+#corpo90{
+    background-image: url("parabens.jpg");
+    background-size: cover;
+}
